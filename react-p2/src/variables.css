@@ -1,0 +1,10 @@
+:root {
+  --main-bg-gradient: linear-gradient(var(--white) 40%, gray);
+  --peach: #ff826e;
+  --font-xs: 12px;
+  --font-s: 14px;
+  --font-sm: 18px;
+  --font-m: 20px;
+  --font-l: 28px;
+  --font-xl: 32px;
+}
