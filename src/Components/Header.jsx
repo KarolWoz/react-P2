@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container-md text-center">
         <div className="row">
           <div className="col-3 app__logo">
-            <img src="./budget.png" />
+            <img src="./budget.png" alt="Logo" />
           </div>
           <div className="col-sm-9">
             <h2>Wymiana Walut</h2>
