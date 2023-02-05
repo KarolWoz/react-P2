@@ -6,7 +6,7 @@ const Form = () => {
 
   const getCurrencyList = (event) => {
     event.preventDefault();
-    console.log(event.target.currencyAmount.value);
+
     fetchCurrencyList().then((data) => getCalc(data[0].rates, event.target));
   };
 
